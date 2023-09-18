@@ -1,0 +1,4 @@
+Bundle-Name: installModulesPortlet
+Bundle-SymbolicName: com.gq.portlets.installModulesPortlet
+Bundle-Version: 1.0.0
+Export-Package: com.gq.constants
